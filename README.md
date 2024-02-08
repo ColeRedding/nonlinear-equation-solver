@@ -1,1 +1,2 @@
 # nonlinear-equation-solver
+This project is a calculator created to solve nonlinear equations. It consists of a simple GUI using tkinter and Python for the backend. The program allows the user to input a nonlinear equation, tolerance threshold, and initial estimations (if applicable). It then allows the user to choose which solving method they want to use (Bisection, False position, Newton, Secant), after which the program calculates and displays an answer.
