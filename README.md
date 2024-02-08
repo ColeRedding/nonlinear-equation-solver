@@ -1,1 +1,1 @@
-# numerical-comp-calc
+# nonlinear-equation-solver
